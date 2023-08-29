@@ -7,5 +7,5 @@ Agenda:
 Addresing any questions or concern related to Microsoft badges.
 To share information on how to claim and share Microsoft badges through the Microsoft portal.
 The next meeting will be tomorrow with Dua 
-# Note taker:Wasiq Raheem
+# Note taker: Wasiq Raheem
 
